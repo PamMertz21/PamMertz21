@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pam 👋</h1>
+<h1 align="center">Hi, I'm Dwaine Roxtte E. Balite 👋</h1>
 <h3 align="center">IT Student | Aspiring Software & Mobile Developer</h3>
 
 <p align="center">
