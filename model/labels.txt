@@ -1,0 +1,10 @@
+0 Ketchup
+1 Mayonnaise
+2 Mustard
+3 Soy Sauce
+4 Vinegar
+5 hot sauce
+6 Salt
+7 Pepper
+8 Fish sauce
+9 Garlic sauce
